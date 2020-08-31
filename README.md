@@ -5,4 +5,4 @@ Hver eneste Git-rodmappe er et komplet versionsstyret depot som ikke afhænger a
 
 * [Git Intro](git.md)
 <!--- * [Git Overview](gitoverview.md) -->
-<! -- * [Git Branches](git_branches.md) -->
+<!--- * [Git Branches](git_branches.md) -->
