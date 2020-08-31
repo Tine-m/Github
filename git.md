@@ -120,7 +120,6 @@ Hvis du trykker på den store grønne knap, kommer der en mulighed frem hvor du 
 
 ### Så skal du over i Git Bash....
 
-#### Download Git Bash
 Download https://git-scm.com/downloads og installér (følg default settings i installationsprocessen medmindre du har særlige præferencer).
 
 ### Kom i gang
