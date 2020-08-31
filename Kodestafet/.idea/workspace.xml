@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e078d50-0e49-4a19-b424-34d19fb6d19f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demo/Hovedmenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Hovedmenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +94,9 @@
       <workItem from="1584448501759" duration="943000" />
       <workItem from="1585053316873" duration="1922000" />
       <workItem from="1598867655743" duration="291000" />
+      <workItem from="1598881971735" duration="98000" />
+      <workItem from="1598882165604" duration="7000" />
+      <workItem from="1598882187618" duration="4000" />
     </task>
     <servers />
   </component>
@@ -100,22 +104,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="206" key="GridCell.Tab.0.bottom" timestamp="1598880274895">
+    <state width="1860" height="206" key="GridCell.Tab.0.bottom" timestamp="1598882069653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598880274895" />
-    <state width="1860" height="206" key="GridCell.Tab.0.center" timestamp="1598880274895">
+    <state width="1860" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598882069653" />
+    <state width="1860" height="206" key="GridCell.Tab.0.center" timestamp="1598882069653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598880274895" />
-    <state width="1860" height="206" key="GridCell.Tab.0.left" timestamp="1598880274895">
+    <state width="1860" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598882069653" />
+    <state width="1860" height="206" key="GridCell.Tab.0.left" timestamp="1598882069652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598880274895" />
-    <state width="1860" height="206" key="GridCell.Tab.0.right" timestamp="1598880274895">
+    <state width="1860" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598882069652" />
+    <state width="1860" height="206" key="GridCell.Tab.0.right" timestamp="1598882069653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598880274895" />
+    <state width="1860" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598882069653" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Kodestafet$Main.ic" NAME="Main Coverage Results" MODIFIED="1598879294988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
