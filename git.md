@@ -13,6 +13,10 @@ Ideen er at du efter at have arbejdet med denne note skal:
 ## Erhvervsrelevans
 Der findes ikke nogen steder, hvor man udvikler software, uden at have et versionshåndteringssystem. Git er idag blandt de mest udbredte.
 
+##  Baggrundsmateriale
+- [Gratis e-bog](https://git-scm.com/book/en/v2) om Git
+
+
 ## Hvorfor et version styringssystem?
 Der er en række situationer som et versionssystem skal kunne håndtere. Nogle eksempler er:
 
@@ -114,8 +118,13 @@ Hvis du trykker på den store grønne knap, kommer der en mulighed frem hvor du 
 
 ![](img/Clone.png)
 
-#### Så skal du over i git-bash....
-Jeg vil anbefale at du laver et katalog i dit filsystem du bruger til git-projekter. Flyt dig derhen vha. `cd` kommandoen.
+### Så skal du over i Git Bash....
+
+#### Download Git Bash
+Download https://git-scm.com/downloads og installér (følg default settings i installationsprocessen medmindre du har særlige præferencer).
+
+### Kom i gang
+Jeg vil anbefale at du laver et katalog i dit filsystem, som du bruger til git-projekter. Flyt dig derhen vha. `cd` kommandoen.
 
 I kommando prompten skal du så skrive `git clone URL`, hvor URL er det du kopiere de fra github.
 
