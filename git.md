@@ -6,7 +6,7 @@ Git er et system der bruges til at holde styr på ens kildetekst over tid. Det e
 ## Læringsmål
 Ideen er at du efter at have arbejdet med denne note skal:
 
-- kunne arbejde sammen i en 4 mands gruppe om kildetekst
+- kunne arbejde sammen i en gruppe om kildetekst
 - kunne bruge git fra git bash til at lave nye versioner og hente andres opdateringer
 - lave dit egen konto på github og oprette projekter og dele dem
 
