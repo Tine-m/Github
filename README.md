@@ -3,6 +3,7 @@ Git er et gratis, distribueret versionsstyringssystem designet til at vedligehol
 
 Hver eneste Git-rodmappe er et komplet versionsstyret depot som ikke afhænger af netværksadgang eller en central server.
 
-* [Git Intro](git.md)
+* [Git introduktion](git.md)
+* [Git opgave](gitopgave.md)
 <!--- * [Git Overview](gitoverview.md) -->
 <!--- * [Git Branches](git_branches.md) -->
