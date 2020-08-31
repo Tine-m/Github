@@ -9,7 +9,6 @@ public class Hovedmenu {
 	static String ynglingsRet = "";
 
 	public static void main(String[] args) {
-		System.out.println("Testing git");
         run();
     }
 
