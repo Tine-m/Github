@@ -1,4 +1,4 @@
 # Git opgave: Grocery List
 
 
-![GroceryList.docx]
+![](GroceryList.docx)
