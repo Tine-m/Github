@@ -24,19 +24,19 @@ Der er en række situationer som et versionssystem skal kunne håndtere. Nogle e
 ## Git begreber
 
 ### Workspace
-Workspace (arbejdsområde) er de filer der er i din normale filstruktur. Tænk på et IntelliJ projekt som et eksempel.
+Workspace (arbejdsområde) er de filer, der er i din normale filstruktur. Tænk på et IntelliJ projekt som et eksempel.
 
 ### Snapshot
-Et snapshot er en kopi af dit workspace som man kan vende tilbage til (vende tilbage til betyder at det er nemt at kopiere et snapshot tilbage i workspace)
+Et snapshot er en kopi af dit workspace, som man kan vende tilbage til (vende tilbage til betyder at det er nemt at kopiere et snapshot tilbage i workspace).
 
 ### Repository 
-Repository (lager) er hvor git lægger snapshots af workspace til side så man kan vende tilbage til det hvis der bliver behov for det. I praksis arbejder man med to repositories i git:
+Repository (lager) er, hvor git lægger snapshots af workspace til side, så man kan vende tilbage til det, hvis der bliver behov for det. I praksis arbejder man med to repositories i git:
 
-* Et *lokalt repository* som er på din egen maskine. Det tillader at du kan lave nye snapshots selv. Det lokale repository er i et katalog der hedder ".git" i roden af dit netbeans projekt.
-* Et *delt repository* som ligger på en server som alle i teamet kan arbejde dele.
+* Et *lokalt repository*, som er på din egen maskine. Det tillader, at du kan lave nye snapshots selv. Det lokale repository er i et katalog der hedder ".git" i roden af dit IntelliJ projekt.
+* Et *delt repository*, som ligger på en server, som alle i teamet kan tilgå.
 
 #### Staging area (også kaldet "index")
-Dette er et specielt snapshot som git holder styr på, men som endnu ikke er lagt i repository (staging area kan vel her oversættes til "byggepladsen"). Avancerede brugere kan lave alle mulige sjove ting med det. Vi kommer blot til at bruge det som mellemled mellem workspace og lokalt repository.
+Dette er et specielt snapshot, som git holder styr på, men som endnu ikke er lagt i repository (staging area kan vel her oversættes til "byggepladsen"). Avancerede brugere kan lave alle mulige sjove ting med det. Vi kommer blot til at bruge det som mellemled mellem workspace og lokalt repository.
 
 ### Git kommandoer
 Der er nogle få kommandoer vi kommer til at bruge fra git-bash:
@@ -45,9 +45,9 @@ Der er nogle få kommandoer vi kommer til at bruge fra git-bash:
 
 * denne kommando fortæller dig:
 
-  * hvilke filer der er nye i workspace (i forhold til staginging area)
-  * hvilke filer der er ændret i workspace (i forhold til staginging area)
-  * hvilke filer der er nye/ændrede i staging area sammeholdt med seneste snapshot i lokal repository
+  * hvilke filer, der er nye i workspace (i forhold til staginging area)
+  * hvilke filer, der er ændret i workspace (i forhold til staginging area)
+  * hvilke filer, der er nye/ændrede i staging area sammeholdt med seneste snapshot i lokal repository
   * forholdet mellem dit lokale repository og det delte repository
 
 `git add .` 
@@ -56,11 +56,11 @@ Der er nogle få kommandoer vi kommer til at bruge fra git-bash:
 
 `git commit -m"beskrivelse"` 
 
-* lægger snapshot fra staging area over i lokal repository. Beskrivelsen skal kort sige hvad du ændrede i denne version.
+* lægger snapshot fra staging area over i lokal repository. Beskrivelsen skal kort sige, hvad du ændrede i denne version.
 
 `git log`
 
-* Denne giver en liste over de snapshots der er i repository. 
+* giver en liste over de snapshots, der er i repository. 
 
 `git clone URL`
 
@@ -68,11 +68,11 @@ Der er nogle få kommandoer vi kommer til at bruge fra git-bash:
 
 `git push`
 
-* opdaterer det delte repository til også at inkludere de snapshots du har i dit lokale repository
+* opdaterer det delte repository til også at inkludere de snapshots, du har i dit lokale repository
 
 `git pull`
 
-* opdaterer dit lokale repository til også at have de snapshots der er i det delte repository
+* opdaterer dit lokale repository til også at have de snapshots, der er i det delte repository
 
 Dette er en oversigt over de mest brugte kommandoer i git. Og vi vil næppe bruge ret mange af dem.
 
