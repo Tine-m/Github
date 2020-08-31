@@ -54,7 +54,7 @@ Der er nogle få kommandoer vi kommer til at bruge fra git-bash:
 
 * tilføjer alle ændringer i workspace til staging area.
 
-`git commit -m"beskrivelse"` 
+`git commit -m" beskrivelse"` 
 
 * lægger snapshot fra staging area over i lokal repository. Beskrivelsen skal kort sige, hvad du ændrede i denne version.
 
@@ -87,7 +87,7 @@ Der er flere måder at gøre det på, men det *nemmeste* er at starte på github
 ### Lav et nyt projekt på github
 1. Du skal oprette en konto på github
 2. Dernæst skal du oprette et nyt repository (det er det lille "+" i øverste højre hjørne)
-3. Du vil blive spurgt om navn på repository - tænk på dette navn som det samme navn du ville bruge til et netbeans projekt
+3. Du vil blive spurgt om navn på repository - tænk på dette navn som det samme navn du ville bruge til et IntelliJ projekt
 4. LAV README FILEN!!!!
 
 Du skulle nu gerne se noget der minder om dette:
@@ -95,7 +95,7 @@ Du skulle nu gerne se noget der minder om dette:
 ![](img/NewProjectOnGithub.png)
 
 ### Gitignore
-Dette er en lille knast vi skal over. Når vi siger `git add -A` så vil git lægge alle nye eller ændrede filer i workspace over i staging area. Men der er mange ting der *ikke* skal med. F.eks.
+Dette er en lille knast, vi skal over. Når vi siger `git add .` så vil git lægge alle nye eller ændrede filer i workspace over i staging area. Men der er mange ting der *ikke* skal med. F.eks.
 
 * Filer der er specifikke til Mac (ikoner mv)
 * Filer der er specifikke til Windows (ikoner mv)
