@@ -151,21 +151,21 @@ Der findes andre metoder til at sætte det op. Det er muligt at starte med at la
 
 
 # Opgaver
-Opgaven er at få sat et repository op for jeres cup-cake opgave. 
+Opgaven er at få sat et repository op for jeres Grocery List opgave. 
 
-Der er dog først lige nogle øvelser der ikke handler om cup-cake.
+Der er dog først lige nogle øvelser der ikke handler om denne opgave.
 
 
 ### Opg 1
-Der skal operettes et repository på github som I skal være to om. 
+Der skal operettes et repository på github, som I skal være to om. 
 
-* Som led i det at oprette dette repository vil jeg anbefale at I i readme filen skriver hvilke medlemmer der er med i gruppen, og hvad jeres github brugernavne er.
+* Som led i det at oprette dette repository vil jeg anbefale at I i readme filen skriver, hvilke medlemmer der er med i gruppen, og hvad jeres github brugernavne er.
 * Husk at få lavet .gitignore filen - se ovenfor.
-* Inviter dine gruppemedlemmer til at være med i dette repository.
+<! -- * Inviter dine gruppemedlemmer til at være med i dette repository. -->
 
 
 ### Opg 2
-[Download (ikke vha clone, blot ren gammeldags zip) login-eksemplet](https://github.com/DAT2Sem2017E/Modul2GitDemo)  og få det til at køre. 
+[Download (ikke vha clone, blot ren gammeldags zip) Kodestafet-eksemplet fra 1. semester på Fronter](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=723859)  og få det til at køre. 
 
 ### Opg 3
 Lave en klon af github projektet og kopierer netbeans projektet over i denne klon og får det op på github.
