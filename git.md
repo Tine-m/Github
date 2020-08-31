@@ -54,7 +54,7 @@ Der er nogle få kommandoer vi kommer til at bruge fra git-bash:
 
 * tilføjer alle ændringer i workspace til staging area.
 
-`git commit -m"beskrivelse"` 
+`git commit -m" beskrivelse"` 
 
 * lægger snapshot fra staging area over i lokal repository. Beskrivelsen skal kort sige, hvad du ændrede i denne version.
 
