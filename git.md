@@ -1,4 +1,4 @@
-# Git
+# Git Introduktion
 **Der er en opgave nederst på siden som I skal lave parvis.**
 
 Git er et system der bruges til at holde styr på ens kildetekst over tid. Det er et system der kan rigtigt meget på rigtigt mange forskellige måder. 
