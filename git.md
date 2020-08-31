@@ -13,12 +13,12 @@ Ideen er at du efter at have arbejdet med denne note skal:
 ## Erhvervsrelevans
 Der findes ikke nogen steder, hvor man udvikler software, uden at have et versionshåndteringssystem. Git er idag blandt de mest udbredte.
 
-## Hvorfor et version styringssystem
+## Hvorfor et version styringssystem?
 Der er en række situationer som et versionssystem skal kunne håndtere. Nogle eksempler er:
 
 - Tillade at to udviklere arbejder på hver sin del, og så hjælpe med at *flette* de to dele sammen igen.
-- At kunne lægge en tidligere version til side - for eksempel lave en version som lige præcis er det system der blev leveret til kunde A, så vi kan se hvad der er rettet af fejl siden da.
-- At kunne prøve en ny ide af, og smide det ud hvis det ikke duer.
+- At kunne lægge en tidligere version til side - for eksempel lave en version, som lige præcis er det system, der blev leveret til kunde A, så vi kan se hvad der er rettet af fejl siden da.
+- At kunne prøve en ny idé af, og smide den ud, hvis det ikke duer.
 - Kildekode er din virksomheds levebrød. Versionssystemer fungerer også som back-up.
 
 ## Git begreber
