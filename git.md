@@ -211,11 +211,11 @@ Men det sker at der opstår "merge konflikter". Det sker hvis du har været inde
 1. Få dette til at ske - den ene af jer laver en ny ændring i datoformat i udskrivDato() metoden og pusher denne rettelse til github.
 2. Den anden laver også ændring i udskrivDato() metodens datoformat, men til noget andet forstås! Og prøver derefter et `git push` (efter `git add` og `git commit`).
 3. Dette bør give fejl. Så skrives `git pull`.
-4. Dette giver sikkert en fejlmeddelse a la denne:
+4. Dette giver en fejlmeddelse i stil med denne:
 
 ![](img/merge2.PNG)
 
-Åbn projektet i IntelliJ. IntelliJ kan vise vindue med merge konflikter. Klik på linket "Resolve":
+Åbn projektet i IntelliJ for at få vist merge konflikter. Klik på linket "Resolve":
 
 ![](img/merge3.PNG)
 
@@ -231,5 +231,5 @@ Når du igen har noget kode der virker (måske er der dele fra begge to, der ska
 
 `git push`.
 
-Du har nu håndteret din første merge konflikt
+Du har nu håndteret din første merge konflikt.
 
