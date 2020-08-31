@@ -211,51 +211,25 @@ Men det sker at der opstår "merge konflikter". Det sker hvis du har været inde
 1. Få dette til at ske - den ene af jer laver en ny ændring i datoformat i udskrivDato() metoden og pusher denne rettelse til github.
 2. Den anden laver også ændring i udskrivDato() metodens datoformat, men til noget andet forstås! Og prøver derefter et `git push` (efter `git add` og `git commit`).
 3. Dette bør give fejl. Så skrives `git pull`.
-4. Dette giver sikkert denne fejl:
+4. Dette giver sikkert en fejlmeddelse a la denne:
 
 ![](img/merge2.PNG)
 
-Prøv at åbne projektet i IntelliJ. IntelliJ bør vise denne advarsel:
+Åbn projektet i IntelliJ. IntelliJ kan vise vindue med merge konflikter. Klik på linket "Resolve":
 
 ![](img/merge3.PNG)
 
-og se på filen DBConnector.java. Den bør have vise noget der ligner:
 
-```java
-public class DBConnector {
 
-    private static String url = "jdbc:mysql://46.101.253.149:3306/classicmodels";
-<<<<<<< HEAD
-    private static String username = "officelister2379";
+Du er ansvarlig (over for gruppen) for at få rettet dette til noget, der er OK. Det kan betyde du skal på github for at se hvem der har lavet den anden del, snakke med vedkommende, og så blive enige om hvad der skal gøres. Men det er dig, der skal rette det!
 
-    private static String password = "lillefikstpassword";
-=======
-    private static String username = "officelister12";
-    private static String password = "dumtpasswordsomeraltforlangttilatmangiveratskrivedetrettit";
-    //private static String password = "bank3*andyouarein";
->>>>>>> 1da9f01c205da7bed90587b9846162c803cfe266
+Når du igen har noget kode der virker (måske er der dele fra begge to, der skal bruges) så kan du lave:
 
-    public static Connection connection() throws ClassNotFoundException, SQLException {
-            Class.forName("com.mysql.jdbc.Driver");
-            Connection connection = DriverManager.getConnection( url, username, password );
-            return connection;
-    }
+`git add .` 
 
-}
-```
-Mellem `<<<<<<` og `======` står det du har lavet, mens der mellem `=====` og `>>>>>>>>` står det den anden har lavet.
-
-Du er så ansvarlig (over for gruppen) for at få rettet dette til noget der er OK. Det kan betyde du skal på github for at se hvem der har lavet den anden del, snakke med vedkommende, og så blive enige om hvad der skal gøres. Men det er dig der skal rette det!
-
-Når du igen har noget kode der virker (måske er der dele fra begge to der skal bruges) så kan du lave:
-
-`git add -A` 
-
-`git commit -m"Rettet merge konflikt"` og 
+`git commit -m "Rettet merge konflikt"` og 
 
 `git push`.
 
 Du har nu håndteret din første merge konflikt
 
-# Database SQL-script
-[Northwind.sql](Northwind.sql)
