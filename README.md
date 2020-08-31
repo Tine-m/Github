@@ -1,5 +1,5 @@
 # GIT
-Git er et frit, distribueret versionsstyringssystem designet til at vedligeholde kildekode. 
+Git er et gratis, distribueret versionsstyringssystem designet til at vedligeholde kildekode. 
 
 Hver eneste Git-rodmappe er et komplet versionsstyret depot som ikke afhænger af netværksadgang eller en central server.
 
