@@ -1,5 +1,5 @@
 # Git Introduktion
-**Der er en opgave nederst på siden som I skal lave parvis.**
+**Der er en opgave nederst på siden, som I skal lave parvis.**
 
 Git er et system der bruges til at holde styr på ens kildetekst over tid. Det er et system der kan rigtigt meget på rigtigt mange forskellige måder. 
 
@@ -150,10 +150,10 @@ Der findes andre metoder til at sætte det op. Det er muligt at starte med at la
 
 
 
-# Opgaver
-Opgaven er at få sat et repository op for jeres Grocery List opgave. 
+# Opgave
+Opgaven er at få sat et repository op for jeres Grocery List opgave (Java repetionsopgave). 
 
-Der er dog først lige nogle øvelser der ikke handler om denne opgave.
+Der er dog først lige nogle øvelser, der ikke handler om denne opgave.
 
 
 ### Opg 1
