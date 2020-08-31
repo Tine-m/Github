@@ -208,10 +208,18 @@ Men det sker at der opstår "merge konflikter". Det sker hvis du har været inde
 * Først vil du få at vide at du skal sige pull, da du er "bagud" i forhold til github.
 * Når du så siger pull, vil du få en meget lang fejlbeskrivelse. Den siger, at git ikke selv kunne finde ud af at sætte de to ændringer sammen (der er rettet det samme steder i de samme filer).
 
-1. Få dette til at ske - den ene af jer retter i IP, brugernavn og password i DBConnector og pusher denne rettelse til github.
-2. Den anden retter også i DBConnector, til noget andet forstås! Og prøver derefter et `git push` (efter `git add` og `git commit`).
+1. Få dette til at ske - den ene af jer laver en ny ændring i datoformat i udskrivDato() metoden og pusher denne rettelse til github.
+2. Den anden laver også ændring i udskrivDato() metodens datoformat, men til noget andet forstås! Og prøver derefter et `git push` (efter `git add` og `git commit`).
 3. Dette bør give fejl. Så skrives `git pull`.
-4. Dette bør give fejl. Prøv at åbne projektet i netbeans og se på filen DBConnector.java. Den bør have vise noget der ligner:
+4. Dette bør give fejl. 
+
+![](img/gitmerge.png)
+
+Prøv at åbne projektet i IntelliJ. IntelliJ bør vise denne advarsel:
+
+![](img/gitmergeIJ.png)
+
+og se på filen DBConnector.java. Den bør have vise noget der ligner:
 
 ```java
 public class DBConnector {
