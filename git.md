@@ -104,9 +104,9 @@ Dette er en lille knast, vi skal over. Når vi siger `git add .` så vil git læ
 
 For at gøre dette til at holde ud i praksis, så kan man lave en speciel fil der hedder `.gitignore` som placeres øverst i projektet. 
 
-1. Download denne [.gitignore](sample_gitignore.txt) fil. (som er en jeg har lavet)
+1. Download denne [.gitignore](sample_gitignore.txt) fil. (som er en, jeg har lavet)
 2. På det nye projekt i github, vælg den knap der hedder "Create new file" (lidt til venstre for den store grønne knap).
-3. Dette åbner et vindue hvor jeg kunne paste indholdet fra den downloadede `.gitignore` fil ind, og du kan navngive filen ".gitignore". - Github opdager du er ved at lave en gitignore fil, men den hjælp den giver er ikke god nok!.
+3. Dette åbner et vindue hvor du kan  paste indholdet fra den downloadede `.gitignore` fil ind, og du kan navngive filen ".gitignore". - Github opdager du er ved at lave en gitignore fil, men den hjælp den giver er ikke god nok!.
 4. skriv en kort besked i "commit changes" (f.eks. *tilføjede .gitignore fil*)
 
 ### Clone repository
