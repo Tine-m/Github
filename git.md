@@ -135,7 +135,7 @@ $
 **Tillykke, du har nu dit første lokale git repository!**
 
 
-#### kopier filer ind i workspace
+#### Kopier filer ind i workspace
 Du har sikkert allerede et IntelliJ projekt. Du kan nu kopiere filerne ind i det nyt git projekt og bruge `git log` og `git status` til at se, hvad der er sket ind til videre.
 
 Der findes andre metoder til at sætte det op. Det er muligt at starte med at lave et lokalt repository, og så senere sætte det på som delt repository. Men metoden ovenfor virker.
