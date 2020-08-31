@@ -211,13 +211,13 @@ Men det sker at der opstår "merge konflikter". Det sker hvis du har været inde
 1. Få dette til at ske - den ene af jer laver en ny ændring i datoformat i udskrivDato() metoden og pusher denne rettelse til github.
 2. Den anden laver også ændring i udskrivDato() metodens datoformat, men til noget andet forstås! Og prøver derefter et `git push` (efter `git add` og `git commit`).
 3. Dette bør give fejl. Så skrives `git pull`.
-4. Dette bør give fejl. 
+4. Dette bør give fejl:
 
-![](img/gitmerge.png)
+![](img/gitmerge.PNG)
 
 Prøv at åbne projektet i IntelliJ. IntelliJ bør vise denne advarsel:
 
-![](img/gitmergeIJ.png)
+![](img/gitmergeIJ.PNG)
 
 og se på filen DBConnector.java. Den bør have vise noget der ligner:
 
