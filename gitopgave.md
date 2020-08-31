@@ -1,4 +1,4 @@
 # Git opgave: Grocery List
 
 
-[Opgave](https://github.com/Tine-m/Github/blob/master/GroceryList.docx)
+[Opgave som pdf dokument](https://github.com/Tine-m/Github/blob/master/GroceryList.pdf)
