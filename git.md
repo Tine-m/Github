@@ -95,7 +95,7 @@ Du skulle nu gerne se noget der minder om dette:
 ![](img/NewProjectOnGithub.png)
 
 ### Gitignore
-Dette er en lille knast, vi skal over. Når vi siger `git add -A` så vil git lægge alle nye eller ændrede filer i workspace over i staging area. Men der er mange ting der *ikke* skal med. F.eks.
+Dette er en lille knast, vi skal over. Når vi siger `git add .` så vil git lægge alle nye eller ændrede filer i workspace over i staging area. Men der er mange ting der *ikke* skal med. F.eks.
 
 * Filer der er specifikke til Mac (ikoner mv)
 * Filer der er specifikke til Windows (ikoner mv)
