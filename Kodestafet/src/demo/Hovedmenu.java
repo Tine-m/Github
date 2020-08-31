@@ -1,6 +1,7 @@
 package demo;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
@@ -70,7 +71,7 @@ public class Hovedmenu {
 	}
 
 	public static void udskrivDato() {
-		System.out.println();
-		System.out.println(LocalDate.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy")));
+		System.out.println("Hej");
+		System.out.println(LocalDate.now().format(DateTimeFormatter.ofPattern("dd.MM.yyyy")));
 	}
 }
