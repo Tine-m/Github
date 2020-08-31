@@ -165,34 +165,34 @@ Der skal operettes et repository på github, som I skal være to om.
 
 
 ### Opg 2
-[Download (ikke vha clone, blot ren gammeldags zip) Kodestafet-eksemplet fra 1. semester på Fronter](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=723859)  og få det til at køre. 
+Download (ikke vha clone, blot ren gammeldags zip) [Kodestafet-eksemplet fra 1. semester på Fronter](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=723859)  og få det til at køre. 
 
 ### Opg 3
-Lave en klon af github projektet og kopierer netbeans projektet over i denne klon og får det op på github.
+Lave en klon af github projektet og kopierer IntelliJ projektet over i denne klon og få det op på github.
 
 ### Opg 4
-Klon til de andre gruppemedlemmer og få det til at køre fra deres maskiner også.
+Klon til den andens maskine og få det også til at køre fra dennes maskiner (I har nu to kloner kørende lokalt).
 
 ### Opg 5
-Den ene af jer ændrer i DBConnector så den bruger en MySQL server på en af jeres droplets. Programmet bygger på classicmodels databasen. I skal sikkert ændre IP addresse, brugernavn og password.
+Den ene af jer ændrer datoformatet i udskrivDato metoden() i klassen Hovedmenu.java så man får udskrevet dato med punktum i stedet for bindestreg. F.eks. 31.08.2020.
 
 ### Opg 6
-Den der ændrede skal nu få disse ændringer på github. Det gøres ved:
+Den, der ændrede, skal nu få disse ændringer på github. Det gøres ved:
 
 ```bash
-$ git add -A # Tilføj alle ændringer fra workspace til staging/index.
-$ git commit -m "Ændret DBConnector til vores DB"
+$ git add . # Tilføj alle ændringer fra workspace til staging/index.
+$ git commit -m "Ændret datoformat"
 $ git push # Push ændringer til github
 ```
 ### Opg 7
-De andre gruppe medlemmer skal nu får disse ændringer ned på deres egen maskine
+Den anden skal nu få denne ændring ned på sin egen maskine
 
 ```bash
 $ git pull # opdater local repository og workspace
 ```
 
 ### Opg 8
-Slet det directory som indeholder projektet. Check at det er fuldstændigt væk, dødt, borte, pist fortabt! Dernæst gå til jeres Github og klon det så du får det igen. Pointe: Hvis det er på jeres github er det aldrig tabt!!!!
+Slet det directory som indeholder projektet. Check at det er fuldstændigt væk, dødt, borte, pist fortabt! Dernæst gå til jeres Github og klon det, så du får det igen. Pointe: Hvis det er på jeres github er det aldrig tabt!!!!
 
 ## Merge opgave (gul)
 Denne opgave er gul - men skal laves af de grønne på et tidpunkt senere i semesteret.
