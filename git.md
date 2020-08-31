@@ -11,7 +11,7 @@ Ideen er at du efter at have arbejdet med denne note skal:
 - lave dit egen konto på github og oprette projekter og dele dem
 
 ## Erhvervsrelevans
-Der findes ikke nogen steder hvor man udvikler software uden at man har et versionshåndteringssystem. Git er idag blandt de mest udbredte.
+Der findes ikke nogen steder, hvor man udvikler software, uden at have et versionshåndteringssystem. Git er idag blandt de mest udbredte.
 
 ## Hvorfor et version styringssystem
 Der er en række situationer som et versionssystem skal kunne håndtere. Nogle eksempler er:
