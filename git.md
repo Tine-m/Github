@@ -24,7 +24,7 @@ Der er en række situationer som et versionssystem skal kunne håndtere. Nogle e
 ## Git begreber
 
 ### Workspace
-Workspace (arbejdsområde) er de filer der er i din normale filstruktur. Tænk på et netbeans projekt som et eksempel.
+Workspace (arbejdsområde) er de filer der er i din normale filstruktur. Tænk på et IntelliJ projekt som et eksempel.
 
 ### Snapshot
 Et snapshot er en kopi af dit workspace som man kan vende tilbage til (vende tilbage til betyder at det er nemt at kopiere et snapshot tilbage i workspace)
