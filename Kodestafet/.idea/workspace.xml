@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e078d50-0e49-4a19-b424-34d19fb6d19f" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/src/demo/Hovedmenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Hovedmenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +96,11 @@
       <workItem from="1584448501759" duration="943000" />
       <workItem from="1585053316873" duration="1922000" />
       <workItem from="1598867655743" duration="291000" />
+<<<<<<< HEAD
       <workItem from="1598877590865" duration="1522000" />
+=======
+      <workItem from="1598880184723" duration="28000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
