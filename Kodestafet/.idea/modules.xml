@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Kodestafet.iml" filepath="$PROJECT_DIR$/Kodestafet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kodestafet.iml" filepath="$PROJECT_DIR$/.idea/Kodestafet.iml" />
     </modules>
   </component>
 </project>

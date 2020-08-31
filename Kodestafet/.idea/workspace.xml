@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e078d50-0e49-4a19-b424-34d19fb6d19f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kodestafet.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demo/Hovedmenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Hovedmenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +100,7 @@
       <workItem from="1584448501759" duration="943000" />
       <workItem from="1585053316873" duration="1922000" />
       <workItem from="1598867655743" duration="291000" />
+      <workItem from="1598882083461" duration="30000" />
     </task>
     <servers />
   </component>
