@@ -192,21 +192,21 @@ $ git pull # opdater local repository og workspace
 ```
 
 ### Opg 8
-Slet det directory som indeholder projektet. Check at det er fuldstændigt væk, dødt, borte, pist fortabt! Dernæst gå til jeres Github og klon det, så du får det igen. Pointe: Hvis det er på jeres github er det aldrig tabt!!!!
+Slet det directory som indeholder projektet. Check at det er fuldstændigt væk, dødt, pist borte! Dernæst gå til jeres Github og klon det, så du får det igen. Pointe: Hvis det er på jeres github er det aldrig tabt!!!!
 
-## Merge opgave (gul)
-Denne opgave er gul - men skal laves af de grønne på et tidpunkt senere i semesteret.
+## Merge opgave (extra)
+Denne opgave er optionel - men skal laves af alle på et tidpunkt senere i semesteret.
 
 ### Opg 9 
 Når man skal arbejde sammen, så er der mange ting der skal falde på plads,  her vil vi se på to ting:
 
-* Man prøver at aftale hvem der arbejder på hvilke filer (f.eks. en laver database og en anden laver servlets...)
+* Man prøver at aftale hvem der arbejder på hvilke filer (f.eks. en laver database og en anden laver web sider ...)
 * Det er vigtigt at man ofte laver et `git pull` så man holder sit workspace opdateret i forhold til hvad de andre i gruppen har lavet.
 
-Men det sker at der opstår "merge konflikter". Det sker hvid du har været inde i fil X og rettet i linje 18, samtidigt med at der er en anden der har gjort det samme. Hvis den anden har sagt `git push` før dig, så vil du få en række fejl når du siger `git push`:
+Men det sker at der opstår "merge konflikter". Det sker hvis du har været inde i fil X og rettet i linje 18, samtidigt med at der er en anden der har gjort det samme. Hvis den anden har sagt `git push` før dig, så vil du få en række fejl når du siger `git push`:
 
 * Først vil du få at vide at du skal sige pull, da du er "bagud" i forhold til github.
-* Når du så siger pull, vil du få en meget lang fejlbeskrivelse. Den siger at git ikke selv kunne finde ud af at sætte de to ændringer sammen (der er rettet det samme steder i de samme filer).
+* Når du så siger pull, vil du få en meget lang fejlbeskrivelse. Den siger, at git ikke selv kunne finde ud af at sætte de to ændringer sammen (der er rettet det samme steder i de samme filer).
 
 1. Få dette til at ske - den ene af jer retter i IP, brugernavn og password i DBConnector og pusher denne rettelse til github.
 2. Den anden retter også i DBConnector, til noget andet forstås! Og prøver derefter et `git push` (efter `git add` og `git commit`).
