@@ -157,11 +157,11 @@ Der er dog først lige nogle øvelser, der ikke handler om denne opgave.
 
 
 ### Opg 1
-Der skal operettes et repository på github, som I skal være to om. 
+Der skal oprettes et repository på github, som I skal være to om. 
 
-* Som led i det at oprette dette repository vil jeg anbefale at I i readme filen skriver, hvilke medlemmer der er med i gruppen, og hvad jeres github brugernavne er.
+* Som led i at oprette dette repository vil jeg anbefale at I i readme filen skriver, hvilke medlemmer der er med i gruppen, og hvad jeres github brugernavne er.
 * Husk at få lavet .gitignore filen - se ovenfor.
-<! -- * Inviter dine gruppemedlemmer til at være med i dette repository. -->
+<!--- * Inviter dine gruppemedlemmer til at være med i dette repository. --->
 
 
 ### Opg 2
