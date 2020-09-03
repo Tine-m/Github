@@ -38,6 +38,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -122,5 +126,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1222" height="179" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599118246488" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1599118934006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599118934006" />
   </component>
 </project>
