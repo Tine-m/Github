@@ -12,6 +12,7 @@
 ##  Baggrundsmateriale
 
 - [Gratis e-bog](https://git-scm.com/book/en/v2) om GIT
+- [LinkedIn Learing video](https://www.linkedin.com/learning/git-branches-merges-and-remotes/set-up-a-github-account?u=36836804) Git branching og merging
 - [Brug denne interaktive tutorial](http://learngitbranching.js.org/) til at lære om GIT branching i alle ender og kanter.  
 
 ## Grundlæggende brug af GIT
