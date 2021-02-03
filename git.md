@@ -152,7 +152,7 @@ Der findes andre metoder til at sætte det op. Det er muligt at starte med at la
 
 
 # Opgave
-Opgaven er at få sat et repository op for jeres Grocery List opgave (Java repetionsopgave). 
+Opgaven er at få sat et repository op for jeres Grocery List opgave (Java repetitionsopgave). 
 
 Der er dog først lige nogle øvelser, der ikke handler om denne opgave.
 
