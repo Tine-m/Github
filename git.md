@@ -166,7 +166,7 @@ Der skal oprettes et repository på github, som I skal være to om.
 
 
 ### Opg 2
-Download (ikke vha clone, blot ren gammeldags zip) [Kodestafet projektet](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=847847)  og få det til at køre. 
+Download (ikke vha clone, blot ren gammeldags zip) [Kodestafet zipfil på Fronter](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=847847)  og få det til at køre. 
 
 ### Opg 3
 Lave en klon af github projektet og kopierer IntelliJ projektet over i denne klon og få det op på github.
